@@ -1,6 +1,25 @@
-﻿Sentence,CompQ,Results1,Results2
-The two kids were wondering how the man did his job,Were there adults,No,Yes
-Who wouldn't want to be a millionaire John asked,Did John ask a question,Yes,No
-The man who the boy thought that saw him walked down the street,was there a girl,No,Yes
-The girl who the server thought that she saw him asked a stupid question,Did someone ask a question,Yes,No
-The director who the secretary wondered whether she needed to warn her walked away,Did the secretary lie,No,Yes
+﻿item.no,condition,Sentence,CompQ,Results1,Results2
+1,a,How upset with him was the very successful businesswoman from Japan suggesting that Frank's colleagues were?,Were there adults,No,Yes
+2,b,How mad at her was the wealthy old duchess from England saying that Harold's friends were?,Did John ask a question,Yes,No
+3,c,How ashamed of him did the kind old lady next door assume that Bob's friends were?,was there a girl,No,Yes
+4,d,How delighted with her did the smart young policewoman on patrol say that George's assistants were?,Did someone ask a question,Yes,No
+5,a,How happy with him was the very loud spokeswoman on television saying that Paul's agents were?,Was someone on television?,Yes,No
+6,b,How pleased with her was the beautiful young actress from Brazil proclaiming that Andrew's fans were?,Was the actress from America?,No,Yes
+7,c,How pleased with him did the happy young bridesmaid in blue think that Will's parents were?,Was the bridesmaid in pink?,No,Yes
+8,d,How confident in her did the cute young girl at school say that Jeremy's family was?,Was the young girl at school?,Yes,No
+9,a,How proud of him was the shy young woman next door claiming that Peter's cousins were?,Was the young woman loud?,No,Yes
+10,b,How frustrated with her was the very talkative saleswoman from Chicago thinking that Tony's coworkers were?,Was the saleswoman from Chicago?,Yes,No
+11,c,How happy with him did the quick skillful maid from England say that Brian's clients were?,Was the maid from France?,No,Yes
+12,d,How upset with her did the polite young waitress at Applebee's suggest that Nathan's friends were?,Was the waitress polite?,Yes,No
+13,a,How impressed with her was the tall friendly salesman from California saying that Amanda's bosses were?,Was the salesman from New York?,No,Yes
+14,b,How ashamed of him was the very mean businessman from Florida thinking that Lisa's bosses were?,Was the businessman mean?,Yes,No
+15,c,How unhappy with her did the athletic young guy from Italy say that Mary's friends were?,Was the young guy unfit?,No,Yes
+16,d,How delighted with him did the funny old gentleman with suspenders suggest that Katie's family was?,Was the old gentleman funny?,Yes,No
+17,a,How unhappy with her was the very courteous fireman from Seattle thinking that Jane's friends were?,Was the fireman from Toronto?,No,Yes
+18,b,How pleased with him was the sweet quiet grandfather from China suggesting that Sarah's friends were?,Was the grandfather quiet?,Yes,No
+19,c,How happy with her did the very charming prince from Denmark think that Maria's servants were?,Was the charming prince Swedish?,No,Yes
+20,d,How upset with him did the very rude policeman from Detroit suggest that Lucy's friends were?,Was the policeman polite?,No,Yes
+21,a,How worried about her was the funny young father with tattoos claiming that Nancy's sisters were?,Did the father have tattoos?,Yes,No
+22,b,How mad at him was the handsome young groomsman from Greece thinking that Leah's parents were?,Was the groomsman ugly?,No,Yes
+23,c,How frustrated with her did the awkward young schoolboy with freckles think that Sophia's sisters were?,Did the schoolboy have freckles?,Yes,No
+24,d,How annoyed with him did the very confident foreman at work suggest that Julia's colleagues were?,Was the foreman insecure?,No,Yes
