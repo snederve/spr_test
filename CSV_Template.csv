@@ -1,8 +1,8 @@
 ﻿item.no,condition,Sentence,CompQ,Results1,Results2
-1,a,How upset with him was the very successful businesswoman from Japan suggesting that Frank's colleagues were?,Were there adults,No,Yes
-2,b,How mad at her was the wealthy old duchess from England saying that Harold's friends were?,Did John ask a question,Yes,No
-3,c,How ashamed of him did the kind old lady next door assume that Bob's friends were?,was there a girl,No,Yes
-4,d,How delighted with her did the smart young policewoman on patrol say that George's assistants were?,Did someone ask a question,Yes,No
+1,a,How upset with him was the very successful businesswoman from Japan suggesting that Frank's colleagues were?,Was the businesswoman from Korea?,No,Yes
+2,b,How mad at her was the wealthy old duchess from England saying that Harold's friends were?,Was the duchess old?,Yes,No
+3,c,How ashamed of him did the kind old lady next door assume that Bob's friends were?,Was the old lady kind?,Yes,No
+4,d,How delighted with her did the smart young policewoman on patrol say that George's assistants were?,Was the policewoman smart?,Yes,No
 5,a,How happy with him was the very loud spokeswoman on television saying that Paul's agents were?,Was someone on television?,Yes,No
 6,b,How pleased with her was the beautiful young actress from Brazil proclaiming that Andrew's fans were?,Was the actress from America?,No,Yes
 7,c,How pleased with him did the happy young bridesmaid in blue think that Will's parents were?,Was the bridesmaid in pink?,No,Yes
